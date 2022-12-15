@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *main Test function for positive or megative
+ *main - Test function for positive or megative
  *Return: 0
  */
 int main(void)
